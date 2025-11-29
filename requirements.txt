@@ -1,0 +1,8 @@
+openai
+groq
+sounddevice
+vosk
+numpy
+ttsfm
+psutil
+python-dotenv
