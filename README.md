@@ -38,7 +38,7 @@
 ## ⚒️ Installations
 1. Clone the repository
 ```bash
-git clone https://github.com/DevManoj96/Hola.git
+git clone https://github.com/VoinFeix/Hola.git
 ```
 
 2. Enable a python virtual env.
